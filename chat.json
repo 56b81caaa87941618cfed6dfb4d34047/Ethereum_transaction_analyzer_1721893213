@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it appear upon a specific action (e.g., clicking a button)?\", \"option1\": \"Always visible\", \"option2\": \"Appear on action\"}, {\"question 2\": \"In terms of styling, should the sidebar fit the full height of the view or only contain the height of its components?\", \"option1\": \"Full height of the view\", \"option2\": \"Height of its components\"}], \"input_token_count\": 266, \"output_token_count\": 108, \"time_taken\": \"0:00:03.840985\"}",
+        "message_id": "guest25072024074043",
+        "timestamp": "25072024074048",
+        "component_file_name": "purple_feature_grid_component_1721893217",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, will add a sidebar with home, about, and contact navlinks.",
         "message_id": "guest25072024074043",
