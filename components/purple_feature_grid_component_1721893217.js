@@ -70,6 +70,12 @@ Vue.component("purple_feature_grid_component_1721893217", {
                     <div class="flex" id="feature-6-description-container"><p id="feature-6-description" class="flex-1 text-sm" :class="textPrimaryStyle">Navigating complex transaction data has never been easier. Our intuitive and user-friendly interface empowers you to effortlessly explore and analyze Ethereum transactions, regardless of your technical expertise.</p></div>
                 </div>
             </div>
+            <div class="p-5">
+                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                    Hello World
+                </button>
+            </div>
+        </div>
         </div>
     </div>`,
         data() {
